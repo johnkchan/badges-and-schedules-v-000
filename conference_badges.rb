@@ -13,6 +13,7 @@ end
 
 def assign_rooms(speakers)
   rooms = 1
+  output = []
   speakers.each do |speaker|
     
     
